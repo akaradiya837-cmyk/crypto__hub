@@ -1,0 +1,23 @@
+{
+    "cryptoadminpirouser@gmail.com": {
+        "fullName": "Administrator",
+        "phone": "0000000000",
+        "password": "$2y$10$dM5Ur/0e5JEZhvZIVScO9uXMYE3A7QfGm96/JMZ9McxXn0p4BKfvW",
+        "created_at": "2026-04-03 00:00:00",
+        "status": "active"
+    },
+    "acc@gmail.com": {
+        "fullName": "Yuvraj Vaghela",
+        "phone": "08735008810",
+        "password": "$2y$10$J.9VUNHhsdvGXWTTSY3tSu3kt2jQ7XVVLZaipzVaAwhn0klVOQxeC",
+        "created_at": "2026-02-24 08:04:31",
+        "status": "active"
+    },
+    "yuvrajv833@gmail.com": {
+        "fullName": "Yuvraj Vaghela",
+        "phone": "08735008810",
+        "password": "$2y$10$FIrz.iof1MkunvqnXa8c0e7yrnzVDvngYB.X4WbX5qcCJJbHKEO2O",
+        "created_at": "2026-02-24 16:50:36",
+        "status": "active"
+    }
+}

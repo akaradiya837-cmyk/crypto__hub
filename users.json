@@ -1,0 +1,32 @@
+{
+    "yvaghela357@rku.ac.in": {
+        "fullName": "Yuvraj Vaghela",
+        "phone": "8735008810",
+        "password": "$2y$10$N06yhws8lrAr.b\/mtRvc.un2xQvpwdRc10tFcX8v6A8Np0dvM3Nxm",
+        "created_at": "2026-03-10 05:13:15",
+        "email_verified": true
+    },
+    "a@gmail.com": {
+        "fullName": "anand karadiya",
+        "phone": "1234567899",
+        "password": "$2y$10$m6ic4S5Mc9\/gzO907iG8t.N8ANHBH6JYBJqMrIw\/g4kECohpgSJDK",
+        "created_at": "2026-03-13 07:10:57",
+        "email_verified": true
+    },
+    "yuvrajv833@gmail.com": {
+        "fullName": "vaghela yuvraj",
+        "phone": "9104814409",
+        "password": "$2y$10$cMnYRNeDs9Fa.cQUmul\/LOuVDuZmuBqMmce6EBZQE\/1OWSJjVDzzu",
+        "created_at": "2026-04-01 20:43:48",
+        "email_verified": false,
+        "balance": 0
+    },
+    "akaradiya837@rku.ac.in": {
+        "fullName": "vaghela yuvraj",
+        "phone": "9601070242",
+        "password": "$2y$10$b14fpEUdbpIfbH9iQWcOsei6r1uKiBEicTrZT56SsD8NwXgw7kRt.",
+        "created_at": "2026-04-01 21:02:56",
+        "email_verified": false,
+        "balance": 0
+    }
+}
